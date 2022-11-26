@@ -40,30 +40,31 @@ PEAS:
 
 
 Code Snippets
- 
- 
+ ![image](https://user-images.githubusercontent.com/104033983/204105807-7681aefd-a028-448f-baa9-dd35939b8a01.png)
+![image](https://user-images.githubusercontent.com/104033983/204105830-b07ec44f-a384-4cef-bd78-258a5642e1a1.png)
+![image](https://user-images.githubusercontent.com/104033983/204105840-cc577249-2eee-4af8-b799-552895a3a066.png)
 
- 
- 
+![image](https://user-images.githubusercontent.com/104033983/204105842-5747298a-c652-4079-b938-97d9f5024649.png)
 
- 
+ ![image](https://user-images.githubusercontent.com/104033983/204105845-c88dafdc-511f-4d28-8093-beb70824ec0f.png)
 
- 
-
-
-
+![image](https://user-images.githubusercontent.com/104033983/204105850-8df49deb-59e0-478e-8f37-78115a5c7af1.png)
 
 Output
 Training and Testing Accuracy
- 
+ ![image](https://user-images.githubusercontent.com/104033983/204105857-419651d2-6ab7-4a8a-a022-214f0976f03d.png)
+
 Dataset
- 
+![image](https://user-images.githubusercontent.com/104033983/204105865-66fa0b3d-501a-45d8-9298-1acddb664776.png) 
 Data Pre-Process:
- 
+ ![image](https://user-images.githubusercontent.com/104033983/204105891-e646fed9-ba1c-46dd-aaa8-0843de6a16ab.png)
+
 Confusion Matrix
- 
+ ![image](https://user-images.githubusercontent.com/104033983/204105894-a1e39d14-d893-47dc-83de-fac4743f0f7d.png)
+
 ROC Curve
- 
+ ![image](https://user-images.githubusercontent.com/104033983/204105896-04b0239d-a20e-4d78-876c-c88b9649d1cc.png)
+
 Conclusion
 The model Neural Network model created using Python3, TensorFlow and Keras predict if the person is suffering from Parkinsons Disease or is at a potential risk of having progressive disorder that affects the nervous system and the parts of the body controlled by the nerves with an accuracy of 79.49%.
 Thus, the model created in this project can be implemented for real-world applications and can be extended further by training a larger dataset and improving the accuracy of prediction using advanced methods of Deep Learning and Convolutional Neural Networks.
